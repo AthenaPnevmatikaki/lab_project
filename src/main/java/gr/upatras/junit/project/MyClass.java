@@ -10,7 +10,7 @@ public class MyClass {
 				return "NEGATIVE";
 			}
 			else {
-				return "NEGATIVE";
+				return "ZERO";
 			}
 		}
 	}
